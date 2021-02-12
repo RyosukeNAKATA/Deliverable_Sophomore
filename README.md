@@ -1,1 +1,1 @@
-# 学部2年生成果物置き場
+# This repo exists to manage my sophomore's deliverable.
