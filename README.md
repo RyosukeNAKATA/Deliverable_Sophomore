@@ -1,1 +1,1 @@
-# MyDeliverable_2nd_grade
+# 学部2年生成果物置き場
